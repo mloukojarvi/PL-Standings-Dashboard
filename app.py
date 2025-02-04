@@ -74,7 +74,7 @@ section_style = {
     "border-radius": "15px",
     "margin-bottom": "20px"
 }
-### End of styling ###E
+### End of styling ###
 
 app = Dash(__name__, suppress_callback_exceptions=True)
 
